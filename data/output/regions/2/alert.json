@@ -1,120 +1,120 @@
 {
   "current": {
     "year": 2026,
-    "week": 8,
-    "date_range": "16-22 feb",
-    "prev_date_range": "9-15 feb",
+    "week": 9,
+    "date_range": "23 feb-1 mar",
+    "prev_date_range": "16-22 feb",
     "color": "green",
-    "total": 140,
-    "baseline_median": 1383.0,
-    "change_pct": -89.9,
-    "z_score": -4.3,
-    "oe_ratio": 0.1,
-    "oe_pct": 10.0,
-    "band_lo": 1217,
-    "band_hi": 1549,
-    "delta_prev_week": -88.2,
-    "delta_oe": -0.89,
-    "delta_change_pct_pp": -88.7,
+    "total": 161,
+    "baseline_median": 1448.0,
+    "change_pct": -88.9,
+    "z_score": -4.03,
+    "oe_ratio": 0.11,
+    "oe_pct": 11.0,
+    "band_lo": 1274,
+    "band_hi": 1622,
+    "delta_prev_week": -87.2,
+    "delta_oe": -0.8,
+    "delta_change_pct_pp": -80.2,
     "by_cause": [
       {
         "name": "Influenza",
         "total": 1,
         "baseline": 4.0,
         "change_pct": -75.0,
-        "z_score": -0.91,
+        "z_score": -0.93,
         "oe": 0.25,
         "color": "green"
       },
       {
         "name": "COVID-19",
         "total": 0,
-        "baseline": 508.5,
+        "baseline": 550.0,
         "change_pct": -100.0,
-        "z_score": -2.11,
+        "z_score": -2.27,
         "oe": 0.0,
         "color": "green"
       },
       {
         "name": "Neumonía",
-        "total": 6,
-        "baseline": 26.0,
-        "change_pct": -76.9,
-        "z_score": -2.44,
-        "oe": 0.23,
+        "total": 2,
+        "baseline": 38.0,
+        "change_pct": -94.7,
+        "z_score": -4.33,
+        "oe": 0.05,
         "color": "green"
       },
       {
         "name": "IRA Alta",
-        "total": 94,
-        "baseline": 1111.0,
-        "change_pct": -91.5,
-        "z_score": -3.98,
-        "oe": 0.08,
+        "total": 113,
+        "baseline": 1119.0,
+        "change_pct": -89.9,
+        "z_score": -4.02,
+        "oe": 0.1,
         "color": "green"
       },
       {
         "name": "Bronquitis",
-        "total": 24,
-        "baseline": 115.0,
-        "change_pct": -79.1,
-        "z_score": -2.5,
-        "oe": 0.21,
+        "total": 14,
+        "baseline": 116.0,
+        "change_pct": -87.9,
+        "z_score": -2.39,
+        "oe": 0.12,
         "color": "green"
       },
       {
         "name": "Obstructiva",
-        "total": 4,
-        "baseline": 43.0,
-        "change_pct": -90.7,
-        "z_score": -3.41,
-        "oe": 0.09,
+        "total": 5,
+        "baseline": 35.0,
+        "change_pct": -85.7,
+        "z_score": -4.17,
+        "oe": 0.14,
         "color": "green"
       },
       {
         "name": "Otra resp.",
-        "total": 11,
-        "baseline": 104.0,
-        "change_pct": -89.4,
-        "z_score": -4.16,
-        "oe": 0.11,
+        "total": 26,
+        "baseline": 105.0,
+        "change_pct": -75.2,
+        "z_score": -3.87,
+        "oe": 0.25,
         "color": "green"
       }
     ],
     "by_age": [
       {
         "group": "<1 año",
-        "total": 7,
-        "baseline": 113.0,
-        "change_pct": -93.8,
+        "total": 5,
+        "baseline": 114.0,
+        "change_pct": -95.6,
         "color": "green"
       },
       {
         "group": "1-4 años",
-        "total": 10,
+        "total": 18,
         "baseline": 233.0,
-        "change_pct": -95.7,
+        "change_pct": -92.3,
         "color": "green"
       },
       {
         "group": "5-14 años",
-        "total": 19,
-        "baseline": 244.0,
-        "change_pct": -92.2,
+        "total": 38,
+        "baseline": 242.0,
+        "change_pct": -84.3,
         "color": "green"
       },
       {
         "group": "15-64 años",
-        "total": 89,
-        "baseline": 740.0,
-        "change_pct": -88.0,
+        "total": 85,
+        "baseline": 697.0,
+        "change_pct": -87.8,
         "color": "green"
       },
       {
         "group": "65+ años",
         "total": 15,
-        "baseline": 82.0,
-        "change_pct": -81.7,
+        "baseline": 97.0,
+        "change_pct": -84.5,
         "color": "green"
       }
     ],
@@ -13904,17 +13904,17 @@
       "date_range": "9-15 feb",
       "prev_date_range": "2-8 feb",
       "color": "green",
-      "total": 1191,
+      "total": 1242,
       "baseline_median": 1206.0,
-      "change_pct": -1.2,
-      "z_score": -0.25,
-      "oe_ratio": 0.99,
-      "oe_pct": 99.0,
+      "change_pct": 3.0,
+      "z_score": -0.03,
+      "oe_ratio": 1.03,
+      "oe_pct": 103.0,
       "band_lo": 1061,
       "band_hi": 1351,
-      "delta_prev_week": -8.8,
-      "delta_oe": -0.13,
-      "delta_change_pct_pp": -13.6,
+      "delta_prev_week": -4.9,
+      "delta_oe": -0.09,
+      "delta_change_pct_pp": -9.4,
       "by_cause": [
         {
           "name": "Influenza",
@@ -13945,21 +13945,21 @@
         },
         {
           "name": "IRA Alta",
-          "total": 863,
+          "total": 903,
           "baseline": 915.0,
-          "change_pct": -5.7,
-          "z_score": -0.38,
-          "oe": 0.94,
+          "change_pct": -1.3,
+          "z_score": -0.19,
+          "oe": 0.99,
           "color": "green"
         },
         {
           "name": "Bronquitis",
-          "total": 145,
+          "total": 156,
           "baseline": 119.0,
-          "change_pct": 21.8,
-          "z_score": 0.64,
-          "oe": 1.22,
-          "color": "yellow"
+          "change_pct": 31.1,
+          "z_score": 0.87,
+          "oe": 1.31,
+          "color": "orange"
         },
         {
           "name": "Obstructiva",
@@ -13983,37 +13983,37 @@
       "by_age": [
         {
           "group": "<1 año",
-          "total": 70,
+          "total": 71,
           "baseline": 102.0,
-          "change_pct": -31.4,
+          "change_pct": -30.4,
           "color": "green"
         },
         {
           "group": "1-4 años",
-          "total": 137,
+          "total": 149,
           "baseline": 207.0,
-          "change_pct": -33.8,
+          "change_pct": -28.0,
           "color": "green"
         },
         {
           "group": "5-14 años",
-          "total": 159,
+          "total": 165,
           "baseline": 210.0,
-          "change_pct": -24.3,
+          "change_pct": -21.4,
           "color": "green"
         },
         {
           "group": "15-64 años",
-          "total": 713,
+          "total": 743,
           "baseline": 597.0,
-          "change_pct": 19.4,
+          "change_pct": 24.5,
           "color": "yellow"
         },
         {
           "group": "65+ años",
-          "total": 112,
+          "total": 114,
           "baseline": 93.0,
-          "change_pct": 20.4,
+          "change_pct": 22.6,
           "color": "yellow"
         }
       ],
@@ -14026,116 +14026,238 @@
       "date_range": "16-22 feb",
       "prev_date_range": "9-15 feb",
       "color": "green",
-      "total": 140,
+      "total": 1262,
       "baseline_median": 1383.0,
-      "change_pct": -89.9,
-      "z_score": -4.3,
-      "oe_ratio": 0.1,
-      "oe_pct": 10.0,
+      "change_pct": -8.7,
+      "z_score": -0.27,
+      "oe_ratio": 0.91,
+      "oe_pct": 91.0,
       "band_lo": 1217,
       "band_hi": 1549,
-      "delta_prev_week": -88.2,
-      "delta_oe": -0.89,
-      "delta_change_pct_pp": -88.7,
+      "delta_prev_week": 1.6,
+      "delta_oe": -0.12,
+      "delta_change_pct_pp": -11.7,
       "by_cause": [
         {
           "name": "Influenza",
-          "total": 1,
+          "total": 10,
           "baseline": 4.0,
-          "change_pct": -75.0,
-          "z_score": -0.91,
-          "oe": 0.25,
-          "color": "green"
+          "change_pct": 150.0,
+          "z_score": -0.04,
+          "oe": 2.5,
+          "color": "red"
         },
         {
           "name": "COVID-19",
-          "total": 0,
+          "total": 12,
           "baseline": 508.5,
-          "change_pct": -100.0,
-          "z_score": -2.11,
-          "oe": 0.0,
+          "change_pct": -97.6,
+          "z_score": -2.06,
+          "oe": 0.02,
           "color": "green"
         },
         {
           "name": "Neumonía",
-          "total": 6,
+          "total": 37,
           "baseline": 26.0,
-          "change_pct": -76.9,
-          "z_score": -2.44,
-          "oe": 0.23,
-          "color": "green"
+          "change_pct": 42.3,
+          "z_score": 0.58,
+          "oe": 1.42,
+          "color": "orange"
         },
         {
           "name": "IRA Alta",
-          "total": 94,
+          "total": 936,
           "baseline": 1111.0,
-          "change_pct": -91.5,
-          "z_score": -3.98,
-          "oe": 0.08,
+          "change_pct": -15.8,
+          "z_score": -0.45,
+          "oe": 0.84,
           "color": "green"
         },
         {
           "name": "Bronquitis",
-          "total": 24,
+          "total": 157,
           "baseline": 115.0,
-          "change_pct": -79.1,
-          "z_score": -2.5,
-          "oe": 0.21,
-          "color": "green"
+          "change_pct": 36.5,
+          "z_score": 1.23,
+          "oe": 1.37,
+          "color": "orange"
         },
         {
           "name": "Obstructiva",
-          "total": 4,
+          "total": 32,
           "baseline": 43.0,
-          "change_pct": -90.7,
-          "z_score": -3.41,
-          "oe": 0.09,
+          "change_pct": -25.6,
+          "z_score": -0.67,
+          "oe": 0.74,
           "color": "green"
         },
         {
           "name": "Otra resp.",
-          "total": 11,
+          "total": 90,
           "baseline": 104.0,
-          "change_pct": -89.4,
-          "z_score": -4.16,
-          "oe": 0.11,
+          "change_pct": -13.5,
+          "z_score": -0.47,
+          "oe": 0.87,
           "color": "green"
         }
       ],
       "by_age": [
         {
           "group": "<1 año",
-          "total": 7,
+          "total": 68,
           "baseline": 113.0,
-          "change_pct": -93.8,
+          "change_pct": -39.8,
           "color": "green"
         },
         {
           "group": "1-4 años",
-          "total": 10,
+          "total": 117,
           "baseline": 233.0,
-          "change_pct": -95.7,
+          "change_pct": -49.8,
           "color": "green"
         },
         {
           "group": "5-14 años",
-          "total": 19,
+          "total": 184,
           "baseline": 244.0,
-          "change_pct": -92.2,
+          "change_pct": -24.6,
           "color": "green"
         },
         {
           "group": "15-64 años",
-          "total": 89,
+          "total": 787,
           "baseline": 740.0,
-          "change_pct": -88.0,
+          "change_pct": 6.4,
+          "color": "green"
+        },
+        {
+          "group": "65+ años",
+          "total": 106,
+          "baseline": 82.0,
+          "change_pct": 29.3,
+          "color": "orange"
+        }
+      ],
+      "mix_shift_active": false,
+      "mix_shift_causes": []
+    },
+    {
+      "year": 2026,
+      "week": 9,
+      "date_range": "23 feb-1 mar",
+      "prev_date_range": "16-22 feb",
+      "color": "green",
+      "total": 161,
+      "baseline_median": 1448.0,
+      "change_pct": -88.9,
+      "z_score": -4.03,
+      "oe_ratio": 0.11,
+      "oe_pct": 11.0,
+      "band_lo": 1274,
+      "band_hi": 1622,
+      "delta_prev_week": -87.2,
+      "delta_oe": -0.8,
+      "delta_change_pct_pp": -80.2,
+      "by_cause": [
+        {
+          "name": "Influenza",
+          "total": 1,
+          "baseline": 4.0,
+          "change_pct": -75.0,
+          "z_score": -0.93,
+          "oe": 0.25,
+          "color": "green"
+        },
+        {
+          "name": "COVID-19",
+          "total": 0,
+          "baseline": 550.0,
+          "change_pct": -100.0,
+          "z_score": -2.27,
+          "oe": 0.0,
+          "color": "green"
+        },
+        {
+          "name": "Neumonía",
+          "total": 2,
+          "baseline": 38.0,
+          "change_pct": -94.7,
+          "z_score": -4.33,
+          "oe": 0.05,
+          "color": "green"
+        },
+        {
+          "name": "IRA Alta",
+          "total": 113,
+          "baseline": 1119.0,
+          "change_pct": -89.9,
+          "z_score": -4.02,
+          "oe": 0.1,
+          "color": "green"
+        },
+        {
+          "name": "Bronquitis",
+          "total": 14,
+          "baseline": 116.0,
+          "change_pct": -87.9,
+          "z_score": -2.39,
+          "oe": 0.12,
+          "color": "green"
+        },
+        {
+          "name": "Obstructiva",
+          "total": 5,
+          "baseline": 35.0,
+          "change_pct": -85.7,
+          "z_score": -4.17,
+          "oe": 0.14,
+          "color": "green"
+        },
+        {
+          "name": "Otra resp.",
+          "total": 26,
+          "baseline": 105.0,
+          "change_pct": -75.2,
+          "z_score": -3.87,
+          "oe": 0.25,
+          "color": "green"
+        }
+      ],
+      "by_age": [
+        {
+          "group": "<1 año",
+          "total": 5,
+          "baseline": 114.0,
+          "change_pct": -95.6,
+          "color": "green"
+        },
+        {
+          "group": "1-4 años",
+          "total": 18,
+          "baseline": 233.0,
+          "change_pct": -92.3,
+          "color": "green"
+        },
+        {
+          "group": "5-14 años",
+          "total": 38,
+          "baseline": 242.0,
+          "change_pct": -84.3,
+          "color": "green"
+        },
+        {
+          "group": "15-64 años",
+          "total": 85,
+          "baseline": 697.0,
+          "change_pct": -87.8,
           "color": "green"
         },
         {
           "group": "65+ años",
           "total": 15,
-          "baseline": 82.0,
-          "change_pct": -81.7,
+          "baseline": 97.0,
+          "change_pct": -84.5,
           "color": "green"
         }
       ],

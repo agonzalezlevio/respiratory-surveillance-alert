@@ -1,7 +1,7 @@
 {
-  "total_anomalies": 260,
-  "volume_spikes": 139,
-  "mix_shifts": 121,
+  "total_anomalies": 255,
+  "volume_spikes": 138,
+  "mix_shifts": 117,
   "mix_z_threshold": 1.8,
   "events": [
     {
@@ -715,64 +715,64 @@
       "type": "volume_spike",
       "year": 2023,
       "week": 11,
-      "total": 13543,
-      "z_score": 19.32
+      "total": 13591,
+      "z_score": 19.53
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 12,
-      "total": 13663,
-      "z_score": 50.28
+      "total": 13692,
+      "z_score": 49.47
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 13,
-      "total": 12301,
-      "z_score": 9.06
+      "total": 12335,
+      "z_score": 9.07
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 18,
-      "total": 19921,
-      "z_score": 2.91
+      "total": 19935,
+      "z_score": 2.9
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 19,
-      "total": 20223,
-      "z_score": 3.68
+      "total": 20318,
+      "z_score": 3.71
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 20,
-      "total": 21717,
-      "z_score": 6.29
+      "total": 21821,
+      "z_score": 6.35
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 33,
       "total": 15001,
-      "z_score": 2.69
+      "z_score": 2.7
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 34,
       "total": 13800,
-      "z_score": 3.13
+      "z_score": 3.14
     },
     {
       "type": "volume_spike",
       "year": 2023,
       "week": 35,
       "total": 14634,
-      "z_score": 2.38
+      "z_score": 2.39
     },
     {
       "type": "volume_spike",
@@ -800,60 +800,60 @@
       "year": 2024,
       "week": 6,
       "total_color": "yellow",
-      "total_change_pct": 10.1,
+      "total_change_pct": 11.2,
       "cause": "COVID-19",
       "cause_total": 414,
       "cause_z": 3.59,
-      "cause_share": 7.3
+      "cause_share": 7.2
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 7,
       "total_color": "yellow",
-      "total_change_pct": 20.8,
+      "total_change_pct": 22.3,
       "cause": "COVID-19",
-      "cause_total": 527,
+      "cause_total": 528,
       "cause_z": 18.1,
-      "cause_share": 8.3
+      "cause_share": 8.2
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 10,
-      "total_color": "green",
-      "total_change_pct": 9.1,
+      "total_color": "yellow",
+      "total_change_pct": 10.4,
       "cause": "COVID-19",
       "cause_total": 721,
-      "cause_z": 3.47,
-      "cause_share": 9.8
+      "cause_z": 3.46,
+      "cause_share": 9.7
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 11,
-      "total": 10940,
-      "z_score": 8.62
+      "total": 11053,
+      "z_score": 8.54
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -19.2,
+      "total_change_pct": -18.7,
       "cause": "Bronquitis",
-      "cause_total": 1082,
-      "cause_z": 3.52,
-      "cause_share": 9.9
+      "cause_total": 1086,
+      "cause_z": 3.5,
+      "cause_share": 9.8
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -19.2,
+      "total_change_pct": -18.7,
       "cause": "COVID-19",
-      "cause_total": 790,
+      "cause_total": 791,
       "cause_z": 2.25,
       "cause_share": 7.2
     },
@@ -862,21 +862,21 @@
       "year": 2024,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -19.2,
+      "total_change_pct": -18.7,
       "cause": "IRA Alta",
-      "cause_total": 8555,
-      "cause_z": 7.57,
-      "cause_share": 78.2
+      "cause_total": 8660,
+      "cause_z": 7.45,
+      "cause_share": 78.3
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -19.2,
+      "total_change_pct": -18.7,
       "cause": "Obstructiva",
-      "cause_total": 362,
-      "cause_z": 3.22,
+      "cause_total": 363,
+      "cause_z": 3.15,
       "cause_share": 3.3
     },
     {
@@ -884,50 +884,50 @@
       "year": 2024,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -19.2,
+      "total_change_pct": -18.7,
       "cause": "Otra resp.",
-      "cause_total": 552,
-      "cause_z": 6.07,
+      "cause_total": 555,
+      "cause_z": 6.15,
       "cause_share": 5.0
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 12,
-      "total": 13985,
-      "z_score": 10.03
+      "total": 14135,
+      "z_score": 9.97
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": 0.3,
+      "total_change_pct": 1.4,
       "cause": "Bronquitis",
-      "cause_total": 1666,
-      "cause_z": 18.01,
-      "cause_share": 11.9
+      "cause_total": 1671,
+      "cause_z": 17.87,
+      "cause_share": 11.8
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": 0.3,
+      "total_change_pct": 1.4,
       "cause": "IRA Alta",
-      "cause_total": 10726,
-      "cause_z": 8.24,
-      "cause_share": 76.7
+      "cause_total": 10866,
+      "cause_z": 8.19,
+      "cause_share": 76.9
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": 0.3,
+      "total_change_pct": 1.4,
       "cause": "Obstructiva",
-      "cause_total": 538,
-      "cause_z": 15.31,
+      "cause_total": 539,
+      "cause_z": 15.72,
       "cause_share": 3.8
     },
     {
@@ -935,61 +935,50 @@
       "year": 2024,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": 0.3,
+      "total_change_pct": 1.4,
       "cause": "Otra resp.",
-      "cause_total": 573,
-      "cause_z": 6.16,
+      "cause_total": 577,
+      "cause_z": 6.26,
       "cause_share": 4.1
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 13,
-      "total": 11823,
-      "z_score": 6.32
+      "total": 11916,
+      "z_score": 6.24
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 13,
       "total_color": "green",
-      "total_change_pct": -3.9,
+      "total_change_pct": -3.4,
       "cause": "Bronquitis",
-      "cause_total": 1800,
-      "cause_z": 26.37,
-      "cause_share": 15.2
+      "cause_total": 1805,
+      "cause_z": 26.03,
+      "cause_share": 15.1
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 13,
       "total_color": "green",
-      "total_change_pct": -3.9,
+      "total_change_pct": -3.4,
       "cause": "IRA Alta",
-      "cause_total": 8396,
-      "cause_z": 4.58,
-      "cause_share": 71.0
+      "cause_total": 8481,
+      "cause_z": 4.52,
+      "cause_share": 71.2
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 13,
       "total_color": "green",
-      "total_change_pct": -3.9,
-      "cause": "Neumonía",
-      "cause_total": 356,
-      "cause_z": 8.1,
-      "cause_share": 3.0
-    },
-    {
-      "type": "mix_shift",
-      "year": 2024,
-      "week": 13,
-      "total_color": "green",
-      "total_change_pct": -3.9,
+      "total_change_pct": -3.4,
       "cause": "Obstructiva",
       "cause_total": 534,
-      "cause_z": 14.14,
+      "cause_z": 14.02,
       "cause_share": 4.5
     },
     {
@@ -997,17 +986,17 @@
       "year": 2024,
       "week": 13,
       "total_color": "green",
-      "total_change_pct": -3.9,
+      "total_change_pct": -3.4,
       "cause": "Otra resp.",
-      "cause_total": 585,
-      "cause_z": 5.2,
+      "cause_total": 587,
+      "cause_z": 5.21,
       "cause_share": 4.9
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 14,
-      "total": 12045,
+      "total": 12174,
       "z_score": 2.84
     },
     {
@@ -1015,78 +1004,78 @@
       "year": 2024,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 7.0,
+      "total_change_pct": 8.2,
       "cause": "Bronquitis",
-      "cause_total": 1915,
-      "cause_z": 7.76,
-      "cause_share": 15.9
+      "cause_total": 1923,
+      "cause_z": 7.78,
+      "cause_share": 15.8
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 7.0,
+      "total_change_pct": 8.2,
       "cause": "IRA Alta",
-      "cause_total": 8598,
+      "cause_total": 8712,
       "cause_z": 2.2,
-      "cause_share": 71.4
+      "cause_share": 71.6
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 7.0,
+      "total_change_pct": 8.2,
       "cause": "Obstructiva",
-      "cause_total": 480,
-      "cause_z": 4.95,
+      "cause_total": 482,
+      "cause_z": 4.96,
       "cause_share": 4.0
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 16,
-      "total": 16065,
-      "z_score": 2.48
+      "total": 16166,
+      "z_score": 2.47
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 17,
-      "total": 18130,
+      "total": 18307,
       "z_score": 3.11
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 18,
-      "total": 19302,
-      "z_score": 3.32
+      "total": 19420,
+      "z_score": 3.3
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 19,
-      "total": 18932,
-      "z_score": 2.63
+      "total": 19116,
+      "z_score": 2.65
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 20,
-      "total": 21151,
-      "z_score": 3.11
+      "total": 21336,
+      "z_score": 3.12
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": 4.7,
+      "total_change_pct": 5.5,
       "cause": "Bronquitis",
-      "cause_total": 3983,
-      "cause_z": 2.04,
+      "cause_total": 4004,
+      "cause_z": 2.05,
       "cause_share": 20.2
     },
     {
@@ -1094,7 +1083,7 @@
       "year": 2024,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": 4.7,
+      "total_change_pct": 5.5,
       "cause": "Influenza",
       "cause_total": 1002,
       "cause_z": 2.78,
@@ -1105,10 +1094,10 @@
       "year": 2024,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": 4.7,
+      "total_change_pct": 5.5,
       "cause": "Neumonía",
-      "cause_total": 747,
-      "cause_z": 3.37,
+      "cause_total": 750,
+      "cause_z": 3.3,
       "cause_share": 3.8
     },
     {
@@ -1116,10 +1105,10 @@
       "year": 2024,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": 4.7,
+      "total_change_pct": 5.5,
       "cause": "Obstructiva",
-      "cause_total": 645,
-      "cause_z": 3.27,
+      "cause_total": 647,
+      "cause_z": 3.32,
       "cause_share": 3.3
     },
     {
@@ -1127,10 +1116,10 @@
       "year": 2024,
       "week": 22,
       "total_color": "green",
-      "total_change_pct": -9.5,
+      "total_change_pct": -8.5,
       "cause": "Neumonía",
-      "cause_total": 699,
-      "cause_z": 2.43,
+      "cause_total": 703,
+      "cause_z": 2.39,
       "cause_share": 4.7
     },
     {
@@ -1138,39 +1127,39 @@
       "year": 2024,
       "week": 31,
       "total_color": "yellow",
-      "total_change_pct": 17.8,
+      "total_change_pct": 18.7,
       "cause": "Bronquitis",
-      "cause_total": 3133,
+      "cause_total": 3147,
       "cause_z": 2.18,
-      "cause_share": 24.2
+      "cause_share": 24.1
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 31,
       "total_color": "yellow",
-      "total_change_pct": 17.8,
+      "total_change_pct": 18.7,
       "cause": "Obstructiva",
-      "cause_total": 545,
-      "cause_z": 2.46,
+      "cause_total": 549,
+      "cause_z": 2.52,
       "cause_share": 4.2
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 32,
-      "total": 12770,
-      "z_score": 2.44
+      "total": 12872,
+      "z_score": 2.43
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 32,
       "total_color": "green",
-      "total_change_pct": -5.4,
+      "total_change_pct": -4.6,
       "cause": "Bronquitis",
-      "cause_total": 3262,
-      "cause_z": 4.09,
+      "cause_total": 3279,
+      "cause_z": 4.1,
       "cause_share": 25.5
     },
     {
@@ -1178,21 +1167,21 @@
       "year": 2024,
       "week": 32,
       "total_color": "green",
-      "total_change_pct": -5.4,
+      "total_change_pct": -4.6,
       "cause": "IRA Alta",
-      "cause_total": 7831,
-      "cause_z": 2.11,
-      "cause_share": 61.3
+      "cause_total": 7904,
+      "cause_z": 2.1,
+      "cause_share": 61.4
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 32,
       "total_color": "green",
-      "total_change_pct": -5.4,
+      "total_change_pct": -4.6,
       "cause": "Neumonía",
-      "cause_total": 562,
-      "cause_z": 2.38,
+      "cause_total": 567,
+      "cause_z": 2.37,
       "cause_share": 4.4
     },
     {
@@ -1200,10 +1189,10 @@
       "year": 2024,
       "week": 32,
       "total_color": "green",
-      "total_change_pct": -5.4,
+      "total_change_pct": -4.6,
       "cause": "Obstructiva",
-      "cause_total": 556,
-      "cause_z": 2.53,
+      "cause_total": 561,
+      "cause_z": 2.58,
       "cause_share": 4.4
     },
     {
@@ -1211,17 +1200,17 @@
       "year": 2024,
       "week": 32,
       "total_color": "green",
-      "total_change_pct": -5.4,
+      "total_change_pct": -4.6,
       "cause": "Otra resp.",
-      "cause_total": 418,
-      "cause_z": 2.54,
+      "cause_total": 420,
+      "cause_z": 2.55,
       "cause_share": 3.3
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 33,
-      "total": 13707,
+      "total": 13780,
       "z_score": 2.4
     },
     {
@@ -1229,10 +1218,10 @@
       "year": 2024,
       "week": 33,
       "total_color": "green",
-      "total_change_pct": -11.8,
+      "total_change_pct": -11.3,
       "cause": "Bronquitis",
-      "cause_total": 3487,
-      "cause_z": 3.01,
+      "cause_total": 3504,
+      "cause_z": 3.03,
       "cause_share": 25.4
     },
     {
@@ -1240,10 +1229,10 @@
       "year": 2024,
       "week": 33,
       "total_color": "green",
-      "total_change_pct": -11.8,
+      "total_change_pct": -11.3,
       "cause": "IRA Alta",
-      "cause_total": 8224,
-      "cause_z": 2.06,
+      "cause_total": 8269,
+      "cause_z": 2.05,
       "cause_share": 60.0
     },
     {
@@ -1251,10 +1240,10 @@
       "year": 2024,
       "week": 33,
       "total_color": "green",
-      "total_change_pct": -11.8,
+      "total_change_pct": -11.3,
       "cause": "Neumonía",
-      "cause_total": 699,
-      "cause_z": 3.85,
+      "cause_total": 702,
+      "cause_z": 3.9,
       "cause_share": 5.1
     },
     {
@@ -1262,10 +1251,10 @@
       "year": 2024,
       "week": 33,
       "total_color": "green",
-      "total_change_pct": -11.8,
+      "total_change_pct": -11.3,
       "cause": "Obstructiva",
-      "cause_total": 575,
-      "cause_z": 1.96,
+      "cause_total": 578,
+      "cause_z": 1.97,
       "cause_share": 4.2
     },
     {
@@ -1273,72 +1262,61 @@
       "year": 2024,
       "week": 33,
       "total_color": "green",
-      "total_change_pct": -11.8,
+      "total_change_pct": -11.3,
       "cause": "Otra resp.",
-      "cause_total": 534,
-      "cause_z": 3.52,
+      "cause_total": 539,
+      "cause_z": 3.53,
       "cause_share": 3.9
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 34,
-      "total": 15076,
-      "z_score": 2.14
+      "total": 15218,
+      "z_score": 2.15
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 34,
       "total_color": "green",
-      "total_change_pct": -3.0,
+      "total_change_pct": -2.1,
       "cause": "Bronquitis",
-      "cause_total": 3983,
-      "cause_z": 2.66,
-      "cause_share": 26.4
+      "cause_total": 4003,
+      "cause_z": 2.67,
+      "cause_share": 26.3
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 34,
       "total_color": "green",
-      "total_change_pct": -3.0,
+      "total_change_pct": -2.1,
       "cause": "IRA Alta",
-      "cause_total": 9121,
-      "cause_z": 1.88,
-      "cause_share": 60.5
+      "cause_total": 9235,
+      "cause_z": 1.9,
+      "cause_share": 60.7
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 34,
       "total_color": "green",
-      "total_change_pct": -3.0,
+      "total_change_pct": -2.1,
       "cause": "Neumonía",
-      "cause_total": 764,
-      "cause_z": 3.78,
-      "cause_share": 5.1
-    },
-    {
-      "type": "mix_shift",
-      "year": 2024,
-      "week": 34,
-      "total_color": "green",
-      "total_change_pct": -3.0,
-      "cause": "Obstructiva",
-      "cause_total": 611,
-      "cause_z": 1.81,
-      "cause_share": 4.1
+      "cause_total": 767,
+      "cause_z": 3.8,
+      "cause_share": 5.0
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 35,
       "total_color": "green",
-      "total_change_pct": 1.7,
+      "total_change_pct": 2.6,
       "cause": "Bronquitis",
-      "cause_total": 4127,
-      "cause_z": 2.27,
+      "cause_total": 4164,
+      "cause_z": 2.3,
       "cause_share": 26.6
     },
     {
@@ -1346,21 +1324,21 @@
       "year": 2024,
       "week": 35,
       "total_color": "green",
-      "total_change_pct": 1.7,
+      "total_change_pct": 2.6,
       "cause": "Neumonía",
-      "cause_total": 787,
-      "cause_z": 3.33,
-      "cause_share": 5.1
+      "cause_total": 789,
+      "cause_z": 3.32,
+      "cause_share": 5.0
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 35,
       "total_color": "green",
-      "total_change_pct": 1.7,
+      "total_change_pct": 2.6,
       "cause": "Otra resp.",
-      "cause_total": 495,
-      "cause_z": 2.02,
+      "cause_total": 498,
+      "cause_z": 1.99,
       "cause_share": 3.2
     },
     {
@@ -1368,10 +1346,10 @@
       "year": 2024,
       "week": 36,
       "total_color": "green",
-      "total_change_pct": -1.2,
+      "total_change_pct": -0.3,
       "cause": "Bronquitis",
-      "cause_total": 4242,
-      "cause_z": 2.05,
+      "cause_total": 4277,
+      "cause_z": 2.07,
       "cause_share": 26.6
     },
     {
@@ -1379,10 +1357,10 @@
       "year": 2024,
       "week": 36,
       "total_color": "green",
-      "total_change_pct": -1.2,
+      "total_change_pct": -0.3,
       "cause": "Neumonía",
-      "cause_total": 831,
-      "cause_z": 2.66,
+      "cause_total": 835,
+      "cause_z": 2.67,
       "cause_share": 5.2
     },
     {
@@ -1390,10 +1368,10 @@
       "year": 2024,
       "week": 36,
       "total_color": "green",
-      "total_change_pct": -1.2,
+      "total_change_pct": -0.3,
       "cause": "Otra resp.",
-      "cause_total": 539,
-      "cause_z": 1.86,
+      "cause_total": 544,
+      "cause_z": 1.85,
       "cause_share": 3.4
     },
     {
@@ -1401,10 +1379,10 @@
       "year": 2024,
       "week": 37,
       "total_color": "green",
-      "total_change_pct": 2.6,
+      "total_change_pct": 3.3,
       "cause": "Neumonía",
-      "cause_total": 889,
-      "cause_z": 2.41,
+      "cause_total": 890,
+      "cause_z": 2.39,
       "cause_share": 5.4
     },
     {
@@ -1412,10 +1390,10 @@
       "year": 2024,
       "week": 37,
       "total_color": "green",
-      "total_change_pct": 2.6,
+      "total_change_pct": 3.3,
       "cause": "Otra resp.",
-      "cause_total": 611,
-      "cause_z": 3.07,
+      "cause_total": 615,
+      "cause_z": 3.01,
       "cause_share": 3.7
     },
     {
@@ -1423,10 +1401,10 @@
       "year": 2024,
       "week": 38,
       "total_color": "green",
-      "total_change_pct": -15.6,
+      "total_change_pct": -15.4,
       "cause": "Neumonía",
       "cause_total": 906,
-      "cause_z": 2.38,
+      "cause_z": 2.35,
       "cause_share": 6.1
     },
     {
@@ -1434,10 +1412,10 @@
       "year": 2024,
       "week": 38,
       "total_color": "green",
-      "total_change_pct": -15.6,
+      "total_change_pct": -15.4,
       "cause": "Obstructiva",
-      "cause_total": 643,
-      "cause_z": 2.67,
+      "cause_total": 645,
+      "cause_z": 2.64,
       "cause_share": 4.3
     },
     {
@@ -1445,10 +1423,10 @@
       "year": 2024,
       "week": 38,
       "total_color": "green",
-      "total_change_pct": -15.6,
+      "total_change_pct": -15.4,
       "cause": "Otra resp.",
-      "cause_total": 579,
-      "cause_z": 2.5,
+      "cause_total": 581,
+      "cause_z": 2.42,
       "cause_share": 3.9
     },
     {
@@ -1456,68 +1434,57 @@
       "year": 2024,
       "week": 39,
       "total_color": "green",
-      "total_change_pct": 6.0,
+      "total_change_pct": 6.6,
       "cause": "Neumonía",
-      "cause_total": 949,
-      "cause_z": 2.36,
-      "cause_share": 5.9
+      "cause_total": 950,
+      "cause_z": 2.34,
+      "cause_share": 5.8
     },
     {
       "type": "mix_shift",
       "year": 2024,
       "week": 39,
       "total_color": "green",
-      "total_change_pct": 6.0,
+      "total_change_pct": 6.6,
       "cause": "Otra resp.",
-      "cause_total": 620,
-      "cause_z": 3.13,
+      "cause_total": 624,
+      "cause_z": 3.11,
       "cause_share": 3.8
-    },
-    {
-      "type": "mix_shift",
-      "year": 2024,
-      "week": 42,
-      "total_color": "green",
-      "total_change_pct": 0.9,
-      "cause": "IRA Alta",
-      "cause_total": 10227,
-      "cause_z": 1.87,
-      "cause_share": 63.1
     },
     {
       "type": "volume_spike",
       "year": 2024,
       "week": 49,
-      "total": 17134,
-      "z_score": 3.48
+      "total": 17257,
+      "z_score": 3.59
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 11,
-      "total": 7499,
-      "z_score": 3.54
+      "total": 7690,
+      "z_score": 3.74
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -44.6,
+      "total_change_pct": -43.4,
       "cause": "Bronquitis",
-      "cause_total": 1027,
-      "cause_z": 1.97,
-      "cause_share": 13.7
+      "cause_total": 1047,
+      "cause_z": 2.07,
+      "cause_share": 13.6
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -44.6,
+      "total_change_pct": -43.4,
       "cause": "IRA Alta",
-      "cause_total": 5561,
-      "cause_z": 4.5,
+      "cause_total": 5708,
+      "cause_z": 4.73,
       "cause_share": 74.2
     },
     {
@@ -1525,39 +1492,50 @@
       "year": 2025,
       "week": 11,
       "total_color": "green",
-      "total_change_pct": -44.6,
+      "total_change_pct": -43.4,
       "cause": "Obstructiva",
-      "cause_total": 265,
-      "cause_z": 1.89,
-      "cause_share": 3.5
+      "cause_total": 276,
+      "cause_z": 2.36,
+      "cause_share": 3.6
+    },
+    {
+      "type": "mix_shift",
+      "year": 2025,
+      "week": 11,
+      "total_color": "green",
+      "total_change_pct": -43.4,
+      "cause": "Otra resp.",
+      "cause_total": 317,
+      "cause_z": 1.81,
+      "cause_share": 4.1
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 12,
-      "total": 13757,
-      "z_score": 22.71
+      "total": 14104,
+      "z_score": 23.54
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": -1.3,
+      "total_change_pct": 1.2,
       "cause": "Bronquitis",
-      "cause_total": 2042,
-      "cause_z": 12.55,
-      "cause_share": 14.8
+      "cause_total": 2102,
+      "cause_z": 13.04,
+      "cause_share": 14.9
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": -1.3,
+      "total_change_pct": 1.2,
       "cause": "IRA Alta",
-      "cause_total": 10237,
-      "cause_z": 28.81,
+      "cause_total": 10498,
+      "cause_z": 29.85,
       "cause_share": 74.4
     },
     {
@@ -1565,50 +1543,50 @@
       "year": 2025,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": -1.3,
+      "total_change_pct": 1.2,
       "cause": "Obstructiva",
-      "cause_total": 516,
-      "cause_z": 20.17,
-      "cause_share": 3.8
+      "cause_total": 525,
+      "cause_z": 20.51,
+      "cause_share": 3.7
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 12,
       "total_color": "green",
-      "total_change_pct": -1.3,
+      "total_change_pct": 1.2,
       "cause": "Otra resp.",
-      "cause_total": 468,
-      "cause_z": 7.94,
+      "cause_total": 478,
+      "cause_z": 8.14,
       "cause_share": 3.4
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 13,
-      "total": 13749,
-      "z_score": 41.2
+      "total": 14075,
+      "z_score": 41.45
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 13,
       "total_color": "yellow",
-      "total_change_pct": 11.8,
+      "total_change_pct": 14.1,
       "cause": "Bronquitis",
-      "cause_total": 2362,
-      "cause_z": 25.78,
-      "cause_share": 17.2
+      "cause_total": 2396,
+      "cause_z": 25.86,
+      "cause_share": 17.0
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 13,
       "total_color": "yellow",
-      "total_change_pct": 11.8,
+      "total_change_pct": 14.1,
       "cause": "IRA Alta",
-      "cause_total": 9708,
-      "cause_z": 45.16,
+      "cause_total": 9938,
+      "cause_z": 45.69,
       "cause_share": 70.6
     },
     {
@@ -1616,10 +1594,10 @@
       "year": 2025,
       "week": 13,
       "total_color": "yellow",
-      "total_change_pct": 11.8,
+      "total_change_pct": 14.1,
       "cause": "Neumonía",
-      "cause_total": 441,
-      "cause_z": 10.22,
+      "cause_total": 456,
+      "cause_z": 11.03,
       "cause_share": 3.2
     },
     {
@@ -1627,39 +1605,39 @@
       "year": 2025,
       "week": 13,
       "total_color": "yellow",
-      "total_change_pct": 11.8,
+      "total_change_pct": 14.1,
       "cause": "Obstructiva",
-      "cause_total": 474,
-      "cause_z": 20.74,
-      "cause_share": 3.4
+      "cause_total": 487,
+      "cause_z": 19.25,
+      "cause_share": 3.5
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 13,
       "total_color": "yellow",
-      "total_change_pct": 11.8,
+      "total_change_pct": 14.1,
       "cause": "Otra resp.",
-      "cause_total": 505,
-      "cause_z": 11.15,
-      "cause_share": 3.7
+      "cause_total": 539,
+      "cause_z": 12.34,
+      "cause_share": 3.8
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 14,
-      "total": 12003,
-      "z_score": 5.97
+      "total": 12238,
+      "z_score": 5.85
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 6.7,
+      "total_change_pct": 8.8,
       "cause": "Bronquitis",
-      "cause_total": 2357,
-      "cause_z": 9.89,
+      "cause_total": 2395,
+      "cause_z": 9.74,
       "cause_share": 19.6
     },
     {
@@ -1667,21 +1645,21 @@
       "year": 2025,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 6.7,
+      "total_change_pct": 8.8,
       "cause": "IRA Alta",
-      "cause_total": 8036,
-      "cause_z": 4.83,
-      "cause_share": 66.9
+      "cause_total": 8203,
+      "cause_z": 4.75,
+      "cause_share": 67.0
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 6.7,
+      "total_change_pct": 8.8,
       "cause": "Neumonía",
-      "cause_total": 494,
-      "cause_z": 12.6,
+      "cause_total": 501,
+      "cause_z": 13.02,
       "cause_share": 4.1
     },
     {
@@ -1689,21 +1667,21 @@
       "year": 2025,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 6.7,
+      "total_change_pct": 8.8,
       "cause": "Obstructiva",
-      "cause_total": 415,
-      "cause_z": 9.99,
-      "cause_share": 3.5
+      "cause_total": 422,
+      "cause_z": 8.55,
+      "cause_share": 3.4
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 14,
       "total_color": "green",
-      "total_change_pct": 6.7,
+      "total_change_pct": 8.8,
       "cause": "Otra resp.",
-      "cause_total": 415,
-      "cause_z": 5.24,
+      "cause_total": 430,
+      "cause_z": 5.29,
       "cause_share": 3.5
     },
     {
@@ -1711,21 +1689,21 @@
       "year": 2025,
       "week": 15,
       "total_color": "yellow",
-      "total_change_pct": 16.6,
+      "total_change_pct": 17.2,
       "cause": "Bronquitis",
-      "cause_total": 2714,
-      "cause_z": 3.59,
-      "cause_share": 21.5
+      "cause_total": 2719,
+      "cause_z": 3.44,
+      "cause_share": 21.4
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 15,
       "total_color": "yellow",
-      "total_change_pct": 16.6,
+      "total_change_pct": 17.2,
       "cause": "Neumonía",
-      "cause_total": 525,
-      "cause_z": 8.96,
+      "cause_total": 529,
+      "cause_z": 8.56,
       "cause_share": 4.2
     },
     {
@@ -1733,10 +1711,10 @@
       "year": 2025,
       "week": 15,
       "total_color": "yellow",
-      "total_change_pct": 16.6,
+      "total_change_pct": 17.2,
       "cause": "Otra resp.",
-      "cause_total": 445,
-      "cause_z": 2.01,
+      "cause_total": 446,
+      "cause_z": 1.9,
       "cause_share": 3.5
     },
     {
@@ -1744,18 +1722,18 @@
       "year": 2025,
       "week": 16,
       "total_color": "yellow",
-      "total_change_pct": 19.1,
+      "total_change_pct": 19.8,
       "cause": "Bronquitis",
-      "cause_total": 2735,
-      "cause_z": 2.25,
-      "cause_share": 20.3
+      "cause_total": 2745,
+      "cause_z": 2.19,
+      "cause_share": 20.2
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 16,
       "total_color": "yellow",
-      "total_change_pct": 19.1,
+      "total_change_pct": 19.8,
       "cause": "Influenza",
       "cause_total": 422,
       "cause_z": 3.89,
@@ -1766,10 +1744,10 @@
       "year": 2025,
       "week": 16,
       "total_color": "yellow",
-      "total_change_pct": 19.1,
+      "total_change_pct": 19.8,
       "cause": "Neumonía",
-      "cause_total": 613,
-      "cause_z": 4.23,
+      "cause_total": 616,
+      "cause_z": 3.99,
       "cause_share": 4.5
     },
     {
@@ -1777,21 +1755,21 @@
       "year": 2025,
       "week": 17,
       "total_color": "yellow",
-      "total_change_pct": 19.8,
+      "total_change_pct": 20.7,
       "cause": "Bronquitis",
-      "cause_total": 3050,
-      "cause_z": 2.12,
-      "cause_share": 21.5
+      "cause_total": 3066,
+      "cause_z": 2.07,
+      "cause_share": 21.4
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 17,
       "total_color": "yellow",
-      "total_change_pct": 19.8,
+      "total_change_pct": 20.7,
       "cause": "Neumonía",
-      "cause_total": 693,
-      "cause_z": 3.41,
+      "cause_total": 696,
+      "cause_z": 3.29,
       "cause_share": 4.9
     },
     {
@@ -1799,21 +1777,21 @@
       "year": 2025,
       "week": 18,
       "total_color": "yellow",
-      "total_change_pct": 15.7,
+      "total_change_pct": 16.6,
       "cause": "Bronquitis",
-      "cause_total": 3205,
-      "cause_z": 1.84,
-      "cause_share": 21.8
+      "cause_total": 3216,
+      "cause_z": 1.8,
+      "cause_share": 21.7
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 18,
       "total_color": "yellow",
-      "total_change_pct": 15.7,
+      "total_change_pct": 16.6,
       "cause": "Influenza",
       "cause_total": 485,
-      "cause_z": 3.39,
+      "cause_z": 3.38,
       "cause_share": 3.3
     },
     {
@@ -1821,10 +1799,10 @@
       "year": 2025,
       "week": 18,
       "total_color": "yellow",
-      "total_change_pct": 15.7,
+      "total_change_pct": 16.6,
       "cause": "Neumonía",
-      "cause_total": 717,
-      "cause_z": 2.78,
+      "cause_total": 720,
+      "cause_z": 2.71,
       "cause_share": 4.9
     },
     {
@@ -1832,9 +1810,9 @@
       "year": 2025,
       "week": 19,
       "total_color": "yellow",
-      "total_change_pct": 10.8,
+      "total_change_pct": 11.8,
       "cause": "Neumonía",
-      "cause_total": 686,
+      "cause_total": 692,
       "cause_z": 1.9,
       "cause_share": 4.8
     },
@@ -1843,10 +1821,10 @@
       "year": 2025,
       "week": 20,
       "total_color": "green",
-      "total_change_pct": -8.5,
+      "total_change_pct": -7.3,
       "cause": "Bronquitis",
-      "cause_total": 3443,
-      "cause_z": 1.83,
+      "cause_total": 3482,
+      "cause_z": 1.86,
       "cause_share": 23.3
     },
     {
@@ -1854,39 +1832,39 @@
       "year": 2025,
       "week": 20,
       "total_color": "green",
-      "total_change_pct": -8.5,
+      "total_change_pct": -7.3,
       "cause": "Obstructiva",
-      "cause_total": 642,
-      "cause_z": 2.6,
+      "cause_total": 649,
+      "cause_z": 2.66,
       "cause_share": 4.3
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 21,
-      "total": 16187,
-      "z_score": 3.15
+      "total": 16345,
+      "z_score": 3.12
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": -13.9,
+      "total_change_pct": -13.0,
       "cause": "Bronquitis",
-      "cause_total": 3916,
-      "cause_z": 3.35,
-      "cause_share": 24.2
+      "cause_total": 3943,
+      "cause_z": 3.5,
+      "cause_share": 24.1
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": -13.9,
+      "total_change_pct": -13.0,
       "cause": "Obstructiva",
-      "cause_total": 629,
-      "cause_z": 4.62,
+      "cause_total": 631,
+      "cause_z": 4.46,
       "cause_share": 3.9
     },
     {
@@ -1894,10 +1872,10 @@
       "year": 2025,
       "week": 21,
       "total_color": "green",
-      "total_change_pct": -13.9,
+      "total_change_pct": -13.0,
       "cause": "Otra resp.",
-      "cause_total": 605,
-      "cause_z": 3.45,
+      "cause_total": 612,
+      "cause_z": 3.06,
       "cause_share": 3.7
     },
     {
@@ -1905,10 +1883,10 @@
       "year": 2025,
       "week": 22,
       "total_color": "green",
-      "total_change_pct": -11.1,
+      "total_change_pct": -10.2,
       "cause": "Bronquitis",
-      "cause_total": 3678,
-      "cause_z": 2.4,
+      "cause_total": 3704,
+      "cause_z": 2.49,
       "cause_share": 25.1
     },
     {
@@ -1916,10 +1894,10 @@
       "year": 2025,
       "week": 23,
       "total_color": "green",
-      "total_change_pct": -12.5,
+      "total_change_pct": -11.7,
       "cause": "Bronquitis",
-      "cause_total": 3724,
-      "cause_z": 2.09,
+      "cause_total": 3745,
+      "cause_z": 2.1,
       "cause_share": 24.6
     },
     {
@@ -1927,28 +1905,28 @@
       "year": 2025,
       "week": 23,
       "total_color": "green",
-      "total_change_pct": -12.5,
+      "total_change_pct": -11.7,
       "cause": "Otra resp.",
-      "cause_total": 615,
-      "cause_z": 3.14,
+      "cause_total": 619,
+      "cause_z": 3.22,
       "cause_share": 4.1
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 34,
-      "total": 13475,
-      "z_score": 2.28
+      "total": 13536,
+      "z_score": 2.24
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 34,
       "total_color": "green",
-      "total_change_pct": -13.3,
+      "total_change_pct": -12.9,
       "cause": "IRA Alta",
-      "cause_total": 8390,
-      "cause_z": 2.35,
+      "cause_total": 8434,
+      "cause_z": 2.3,
       "cause_share": 62.3
     },
     {
@@ -1956,28 +1934,28 @@
       "year": 2025,
       "week": 34,
       "total_color": "green",
-      "total_change_pct": -13.3,
+      "total_change_pct": -12.9,
       "cause": "Otra resp.",
-      "cause_total": 495,
-      "cause_z": 2.2,
+      "cause_total": 498,
+      "cause_z": 2.19,
       "cause_share": 3.7
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 35,
-      "total": 13509,
-      "z_score": 2.14
+      "total": 13532,
+      "z_score": 2.06
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 35,
       "total_color": "green",
-      "total_change_pct": -11.6,
+      "total_change_pct": -11.5,
       "cause": "Bronquitis",
-      "cause_total": 3462,
-      "cause_z": 2.58,
+      "cause_total": 3467,
+      "cause_z": 2.52,
       "cause_share": 25.6
     },
     {
@@ -1985,21 +1963,10 @@
       "year": 2025,
       "week": 35,
       "total_color": "green",
-      "total_change_pct": -11.6,
-      "cause": "IRA Alta",
-      "cause_total": 8270,
-      "cause_z": 1.82,
-      "cause_share": 61.2
-    },
-    {
-      "type": "mix_shift",
-      "year": 2025,
-      "week": 35,
-      "total_color": "green",
-      "total_change_pct": -11.6,
+      "total_change_pct": -11.5,
       "cause": "Otra resp.",
       "cause_total": 504,
-      "cause_z": 2.44,
+      "cause_z": 2.27,
       "cause_share": 3.7
     },
     {
@@ -2010,15 +1977,8 @@
       "total_change_pct": -14.1,
       "cause": "Otra resp.",
       "cause_total": 507,
-      "cause_z": 2.08,
+      "cause_z": 1.97,
       "cause_share": 3.7
-    },
-    {
-      "type": "volume_spike",
-      "year": 2025,
-      "week": 37,
-      "total": 14778,
-      "z_score": 2.01
     },
     {
       "type": "mix_shift",
@@ -2028,19 +1988,8 @@
       "total_change_pct": -7.7,
       "cause": "Bronquitis",
       "cause_total": 3653,
-      "cause_z": 2.02,
+      "cause_z": 1.99,
       "cause_share": 24.7
-    },
-    {
-      "type": "mix_shift",
-      "year": 2025,
-      "week": 37,
-      "total_color": "green",
-      "total_change_pct": -7.7,
-      "cause": "IRA Alta",
-      "cause_total": 9131,
-      "cause_z": 1.84,
-      "cause_share": 61.8
     },
     {
       "type": "mix_shift",
@@ -2050,7 +1999,7 @@
       "total_change_pct": -7.7,
       "cause": "Neumonía",
       "cause_total": 671,
-      "cause_z": 2.61,
+      "cause_z": 2.58,
       "cause_share": 4.5
     },
     {
@@ -2061,7 +2010,7 @@
       "total_change_pct": -7.7,
       "cause": "Obstructiva",
       "cause_total": 555,
-      "cause_z": 2.05,
+      "cause_z": 1.96,
       "cause_share": 3.8
     },
     {
@@ -2072,7 +2021,7 @@
       "total_change_pct": -7.7,
       "cause": "Otra resp.",
       "cause_total": 553,
-      "cause_z": 2.73,
+      "cause_z": 2.61,
       "cause_share": 3.7
     },
     {
@@ -2083,7 +2032,7 @@
       "total_change_pct": -26.4,
       "cause": "Neumonía",
       "cause_total": 687,
-      "cause_z": 2.78,
+      "cause_z": 2.75,
       "cause_share": 5.3
     },
     {
@@ -2091,7 +2040,7 @@
       "year": 2025,
       "week": 39,
       "total": 14792,
-      "z_score": 2.46
+      "z_score": 2.47
     },
     {
       "type": "mix_shift",
@@ -2112,7 +2061,7 @@
       "total_change_pct": -3.3,
       "cause": "IRA Alta",
       "cause_total": 9020,
-      "cause_z": 2.12,
+      "cause_z": 2.11,
       "cause_share": 61.0
     },
     {
@@ -2123,7 +2072,7 @@
       "total_change_pct": -3.3,
       "cause": "Neumonía",
       "cause_total": 726,
-      "cause_z": 4.33,
+      "cause_z": 4.35,
       "cause_share": 4.9
     },
     {
@@ -2134,7 +2083,7 @@
       "total_change_pct": -3.3,
       "cause": "Obstructiva",
       "cause_total": 582,
-      "cause_z": 4.7,
+      "cause_z": 4.45,
       "cause_share": 3.9
     },
     {
@@ -2145,7 +2094,7 @@
       "total_change_pct": -3.3,
       "cause": "Otra resp.",
       "cause_total": 640,
-      "cause_z": 7.79,
+      "cause_z": 8.09,
       "cause_share": 4.3
     },
     {
@@ -2156,7 +2105,7 @@
       "total_change_pct": 2.0,
       "cause": "Otra resp.",
       "cause_total": 641,
-      "cause_z": 4.75,
+      "cause_z": 4.86,
       "cause_share": 4.5
     },
     {
@@ -2164,7 +2113,7 @@
       "year": 2025,
       "week": 41,
       "total": 15655,
-      "z_score": 3.14
+      "z_score": 3.18
     },
     {
       "type": "mix_shift",
@@ -2174,7 +2123,7 @@
       "total_change_pct": 10.2,
       "cause": "Bronquitis",
       "cause_total": 3718,
-      "cause_z": 1.93,
+      "cause_z": 1.96,
       "cause_share": 23.7
     },
     {
@@ -2185,7 +2134,7 @@
       "total_change_pct": 10.2,
       "cause": "IRA Alta",
       "cause_total": 9819,
-      "cause_z": 3.16,
+      "cause_z": 3.17,
       "cause_share": 62.7
     },
     {
@@ -2196,25 +2145,25 @@
       "total_change_pct": 10.2,
       "cause": "Otra resp.",
       "cause_total": 594,
-      "cause_z": 3.31,
+      "cause_z": 3.42,
       "cause_share": 3.8
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 42,
-      "total": 15886,
-      "z_score": 3.12
+      "total": 15915,
+      "z_score": 3.19
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 42,
       "total_color": "green",
-      "total_change_pct": -1.0,
+      "total_change_pct": -0.8,
       "cause": "Bronquitis",
-      "cause_total": 3934,
-      "cause_z": 3.73,
+      "cause_total": 3940,
+      "cause_z": 3.8,
       "cause_share": 24.8
     },
     {
@@ -2222,10 +2171,10 @@
       "year": 2025,
       "week": 42,
       "total_color": "green",
-      "total_change_pct": -1.0,
+      "total_change_pct": -0.8,
       "cause": "IRA Alta",
-      "cause_total": 9739,
-      "cause_z": 2.68,
+      "cause_total": 9760,
+      "cause_z": 2.73,
       "cause_share": 61.3
     },
     {
@@ -2233,7 +2182,7 @@
       "year": 2025,
       "week": 42,
       "total_color": "green",
-      "total_change_pct": -1.0,
+      "total_change_pct": -0.8,
       "cause": "Neumonía",
       "cause_total": 733,
       "cause_z": 1.86,
@@ -2244,7 +2193,7 @@
       "year": 2025,
       "week": 43,
       "total": 16679,
-      "z_score": 4.32
+      "z_score": 4.35
     },
     {
       "type": "mix_shift",
@@ -2265,7 +2214,7 @@
       "total_change_pct": 23.4,
       "cause": "IRA Alta",
       "cause_total": 10479,
-      "cause_z": 4.26,
+      "cause_z": 4.27,
       "cause_share": 62.8
     },
     {
@@ -2287,22 +2236,22 @@
       "total_change_pct": 23.4,
       "cause": "Otra resp.",
       "cause_total": 686,
-      "cause_z": 2.28,
+      "cause_z": 2.29,
       "cause_share": 4.1
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 44,
-      "total": 16019,
-      "z_score": 2.12
+      "total": 16035,
+      "z_score": 2.14
     },
     {
       "type": "mix_shift",
       "year": 2025,
       "week": 47,
       "total_color": "yellow",
-      "total_change_pct": 22.0,
+      "total_change_pct": 22.1,
       "cause": "Influenza",
       "cause_total": 581,
       "cause_z": 1.95,

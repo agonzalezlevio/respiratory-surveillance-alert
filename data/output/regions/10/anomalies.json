@@ -1921,7 +1921,7 @@
       "year": 2025,
       "week": 18,
       "total_color": "yellow",
-      "total_change_pct": 16.0,
+      "total_change_pct": 16.1,
       "cause": "Influenza",
       "cause_total": 539,
       "cause_z": 3.26,
@@ -1932,7 +1932,7 @@
       "year": 2025,
       "week": 18,
       "total_color": "yellow",
-      "total_change_pct": 16.0,
+      "total_change_pct": 16.1,
       "cause": "Neumonía",
       "cause_total": 403,
       "cause_z": 1.89,
@@ -2045,7 +2045,7 @@
       "total_change_pct": -24.6,
       "cause": "Otra resp.",
       "cause_total": 341,
-      "cause_z": 2.7,
+      "cause_z": 2.68,
       "cause_share": 5.6
     },
     {
@@ -2056,7 +2056,7 @@
       "total_change_pct": -29.2,
       "cause": "Otra resp.",
       "cause_total": 332,
-      "cause_z": 2.29,
+      "cause_z": 2.27,
       "cause_share": 6.0
     },
     {
@@ -2418,7 +2418,7 @@
       "year": 2025,
       "week": 40,
       "total_color": "yellow",
-      "total_change_pct": 10.4,
+      "total_change_pct": 10.5,
       "cause": "Influenza",
       "cause_total": 439,
       "cause_z": 5.64,
@@ -2429,10 +2429,10 @@
       "year": 2025,
       "week": 40,
       "total_color": "yellow",
-      "total_change_pct": 10.4,
+      "total_change_pct": 10.5,
       "cause": "Neumonía",
-      "cause_total": 530,
-      "cause_z": 2.48,
+      "cause_total": 531,
+      "cause_z": 2.5,
       "cause_share": 6.9
     },
     {

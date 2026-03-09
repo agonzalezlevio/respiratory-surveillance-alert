@@ -1025,21 +1025,21 @@
       "year": 2025,
       "week": 21,
       "total": 8171,
-      "z_score": 6.05
+      "z_score": 6.09
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 22,
       "total": 7663,
-      "z_score": 3.43
+      "z_score": 3.44
     },
     {
       "type": "volume_spike",
       "year": 2025,
       "week": 23,
       "total": 7627,
-      "z_score": 2.07
+      "z_score": 2.08
     },
     {
       "type": "mix_shift",
@@ -1071,7 +1071,7 @@
       "total_change_pct": 13.5,
       "cause": "Obstructiva",
       "cause_total": 346,
-      "cause_z": 2.21,
+      "cause_z": 2.2,
       "cause_share": 4.5
     },
     {
